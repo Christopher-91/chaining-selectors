@@ -1,15 +1,9 @@
-.avatar {
-    width: 300px;
+.avatar.proportioned {
+  height: auto;
+  width: 300px;
 }
 
-.adjust-1 {
-    width: 200px;
-}
-
-.proportioned {
-    width: 300px;
-}
-
-.adjust-2 {
-    width: 200px;
+.avatar.distorted {
+  height: 400px;
+  width: 200px;
 }
